@@ -27,12 +27,12 @@ export default StyleSheet.create({
         paddingLeft: 16
     },
     button: {
-        backgroundColor: '#788eec',
+        backgroundColor: 'blue',
         marginLeft: 30,
         marginRight: 30,
-        marginTop: 20,
+        marginTop: 30,
         height: 48,
-        borderRadius: 5,
+        borderRadius: 8,
         alignItems: "center",
         justifyContent: 'center'
     },

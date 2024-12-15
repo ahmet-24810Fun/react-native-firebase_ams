@@ -2,6 +2,7 @@
   "expo": {
     "name": "React Native Firebase",
     "slug": "react-native-firebase",
+    "newArchEnabled": true,
     "platforms": [
       "ios",
       "android",
@@ -25,6 +26,9 @@
       "supportsTablet": true
     },
     "description": "Built by the team behind https://www.instamobile.io https://www.iosapptemplates.com https://www.instaflutter.com and https://www.instakotlin.com",
-    "githubUrl": "https://github.com/instamobile/react-native-firebase"
+    "githubUrl": "https://github.com/instamobile/react-native-firebase",
+    "android": {
+      "package": "com.anonymous.reactnativefirebase"
+    }
   }
 }
