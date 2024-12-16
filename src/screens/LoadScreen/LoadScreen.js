@@ -6,7 +6,7 @@ const LoadScreen = () => {
     return (
         <View style={styles.loadingContainer}>
             <View style={styles.loadingBox}>
-                <ActivityIndicator size="large" color="#0000ff" />
+                <ActivityIndicator size="large" color="grey" />
             </View>
         </View>
     );

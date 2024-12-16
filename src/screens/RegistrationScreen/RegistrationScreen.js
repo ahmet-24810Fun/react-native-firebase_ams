@@ -56,7 +56,7 @@ export default function RegistrationScreen({navigation}) {
                 {/* Full name input field */}
                 <TextInput
                     style={styles.input}
-                    placeholder='Full Name'
+                    placeholder='full name'
                     placeholderTextColor="#aaaaaa"
                     onChangeText={(text) => setFullName(text)}
                     value={fullName}
